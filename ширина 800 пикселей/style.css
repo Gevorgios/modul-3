@@ -1,0 +1,272 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap");
+.h {
+  text-align: center;
+}
+.square-1 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 20px;
+}
+.img1 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 180px;
+  left: 63px;
+}
+.sp1 {
+  position: relative;
+  bottom: 150px;
+  font-size: 20px;
+  font-weight: 900;
+  right: 45px;
+}
+.square-2 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 260px;
+  bottom: 340px;
+}
+.img2 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 530px;
+  left: 300px;
+}
+.sp2 {
+  position: relative;
+  bottom: 490px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 200px;
+}
+.square-3 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 490px;
+  bottom: 678px;
+}
+.img3 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 860px;
+  left: 535px;
+}
+.sp3 {
+  position: relative;
+  bottom: 828px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 430px;
+}
+.square-4 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 730px;
+  bottom: 1015px;
+}
+.img4 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 1197px;
+  left: 770px;
+}
+.sp4 {
+  position: relative;
+  bottom: 1165px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 670px;
+}
+.square-5 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 20px;
+  bottom: 1115px;
+}
+.img5 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 1290px;
+  left: 50px;
+}
+.sp5 {
+  position: relative;
+  bottom: 1262px;
+  font-size: 20px;
+  font-weight: 900;
+  right: 60px;
+}
+.square-6 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 258px;
+  bottom: 1453px;
+}
+.img6 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 1630px;
+  left: 298px;
+}
+.sp6 {
+  position: relative;
+  bottom: 1600px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 195px;
+}
+.square-7 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 490px;
+  bottom: 1790px;
+}
+.img7 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 1980px;
+  left: 525px;
+}
+.sp7 {
+  position: relative;
+  bottom: 1938px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 435px;
+}
+.square-8 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 732px;
+  bottom: 2125px;
+}
+.img8 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 2300px;
+  left: 770px;
+}
+.sp8 {
+  position: relative;
+  bottom: 2275px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 680px;
+}
+.square-9 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 20px;
+  bottom: 2233px;
+}
+.img9 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 2410px;
+  left: 55px;
+}
+.sp9 {
+  position: relative;
+  bottom: 2383px;
+  font-size: 20px;
+  font-weight: 900;
+  left: -35px;
+}
+.square-10 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: grey;
+  position: relative;
+  border-radius: 15%;
+  left: 260px;
+  bottom: 2570px;
+}
+.img10 {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  bottom: 2745px;
+  left: 300px;
+}
+.sp10 {
+  position: relative;
+  bottom: 2720px;
+  font-size: 20px;
+  font-weight: 900;
+  left: 185px;
+}
+.hr1 {
+  position: relative;
+  bottom: 2685px;
+}
+.h2 {
+  position: relative;
+  bottom: 2685px;
+  left: 420px;
+}

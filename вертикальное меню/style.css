@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap");
+.d1 {
+  background-color: rgb(156, 155, 155);
+  width: 200px;
+  position: relative;
+  height: 60px;
+}
+.sp1 {
+  position: relative;
+  left: 60px;
+  top: 15px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.d1:hover {
+  background-color: rgb(70, 70, 70);
+}
+.img1 {
+  width: 55px;
+  height: 55px;
+  position: relative;
+  bottom: 65px;
+}
+.d2 {
+  background-color: rgb(156, 155, 155);
+  width: 200px;
+  position: relative;
+  height: 60px;
+  bottom: 60px;
+}
+.sp2 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.img2 {
+  width: 55px;
+  height: 55px;
+  position: relative;
+  bottom: 120px;
+}
+.d2:hover {
+  background-color: rgb(70, 70, 70);
+}
+.d3 {
+  background-color: rgb(156, 155, 155);
+  width: 200px;
+  position: relative;
+  height: 60px;
+  bottom: 120px;
+}
+.sp3 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.d3:hover {
+  background-color: rgb(70, 70, 70);
+}
+.img3 {
+  width: 55px;
+  height: 55px;
+  position: relative;
+  bottom: 180px;
+}
+.d4 {
+  background-color: rgb(156, 155, 155);
+  width: 200px;
+  position: relative;
+  height: 60px;
+  bottom: 180px;
+}
+.sp4 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.d4:hover {
+  background-color: rgb(70, 70, 70);
+}
+.img4 {
+  width: 55px;
+  height: 55px;
+  position: relative;
+  bottom: 240px;
+}
+.d5 {
+  background-color: rgb(156, 155, 155);
+  width: 200px;
+  position: relative;
+  height: 60px;
+  bottom: 240px;
+}
+.sp5 {
+  position: relative;
+  left: 60px;
+  top: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.d5:hover {
+  background-color: rgb(70, 70, 70);
+}
+.img5 {
+  width: 55px;
+  height: 55px;
+  position: relative;
+  bottom: 300px;
+}
